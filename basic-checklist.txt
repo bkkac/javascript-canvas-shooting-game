@@ -1,0 +1,15 @@
+Basic Game Checklist:
+
+1. Create a player
+2. Shoot projectiles
+3. Create enemies
+4. Detect collision on enemy / projectile hit
+5. Detect collision on enemy / player hit
+6. Remove off screen projectiles
+7. Colorize Game
+8. Shrink enemies on hit
+9. Create particle explosion on hit
+10. Add score
+11. Add game over UI
+12. Add restart button
+13. Add start game button
